@@ -24,7 +24,3 @@ This is a classic Tetris game implemented using C++ and sfml. The game features 
 ## Contributing
 
 Feel free to fork this repository, contribute, and improve the game further!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
